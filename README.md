@@ -6,8 +6,7 @@ Welcome to the Stock price Analysis! In this project, the program executes a web
 
 Python Modules
 
-▪ Requests
-
+▪ Requests                                                                                                                               
 ▪ Time 
 ▪ pandas
 ▪ numpy
