@@ -8,7 +8,7 @@ Python Modules
 
 ▪ Requests
 
-▪ Time
+▪ Time 
 ▪ pandas
 ▪ numpy
 ▪ ast
