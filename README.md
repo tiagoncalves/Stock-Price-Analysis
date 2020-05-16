@@ -7,18 +7,18 @@ Welcome to the Stock price Analysis! In this project, the program executes a web
 Python Modules
 
 ▪ Requests                                                                                                                               
-▪ Time 
-▪ pandas
-▪ numpy
-▪ ast
-▪ mysql.connector
-▪ matplotlib.pyplot
-▪ from bs4 import BeautifulSoup
-▪ from mysql.connector import errorcode
-▪ from sqlalchemy import create_engine
-▪ from sklearn.linear_model import LinearRegression
-▪ from sklearn.model_selection import train_test_split
-▪ from datetime import datetime
+▪ Time                                                                                                                                   
+▪ pandas                                                                                                                                 
+▪ numpy                                                                                                                                 
+▪ ast                                                                                                                                   
+▪ mysql.connector                                                                                                                       
+▪ matplotlib.pyplot                                                                                                                     
+▪ from bs4 import BeautifulSoup                                                                                                         
+▪ from mysql.connector import errorcode                                                                                                 
+▪ from sqlalchemy import create_engine                                                                                                   
+▪ from sklearn.linear_model import LinearRegression                                                                                     
+▪ from sklearn.model_selection import train_test_split                                                                                   
+▪ from datetime import datetime                                                                                                        
 
 MySQL schema
 ▪ Open “create schema”, create stock and apply.
