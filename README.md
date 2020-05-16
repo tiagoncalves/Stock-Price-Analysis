@@ -21,5 +21,6 @@ Python Modules
 ▪ from datetime import datetime                                                                                                        
 
 MySQL schema
+
 ▪ Open “create schema”, create stock and apply.
 
