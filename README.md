@@ -22,5 +22,5 @@ Python Modules
 
 MySQL schema
 
-▪ Open “create schema”, create stock and apply.
+▪ Open “create schema”, create stock schema and apply.
 
